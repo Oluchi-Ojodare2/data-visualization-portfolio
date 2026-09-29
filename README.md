@@ -5,4 +5,4 @@ Initial E-Commerce Profitability Analysis — Which product subcategory should S
 
 Account Profitability and Service Tiers — Where is Southwest Office Solutions losing the most money on its 793 accounts, and which one policy change should the VP of Sales fund for FY2026? [Tableau Workbook](https://public.tableau.com/views/Flex_3_Oluchi/AccountPortfolioDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). If repeated, I would start earlier so there's more time to test each of the three levers before settling on one.
 
-Introduction to Power BI, completed on 09/25/2026: [a link to my published Tableau story](https://public.tableau.com/views/PowerBICertifications_17905809882230/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+Introduction to Power BI, completed on 09/25/2026: [a link to my published Tableau story](https://public.tableau.com/views/PowerBICertifications_17905809882230/PowerBIStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
