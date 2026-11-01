@@ -20,3 +20,16 @@ Card Growth Analysis – Wildcat Rewards Offer: Which customer segment should Be
 Finding: Texas has the highest number of eligible customers of all states, with 68 of 159 customers eligible (42.8%) at the fixed FICO cutoff of 670.
 [tableau workbook](https://public.tableau.com/views/CardGrowthAnalysisWildcatRewardsOffer_17930776427590/ExploratoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 Next time, I would explore additional customer characteristics to better understand which eligible customers are most likely to adopt the card. 
+
+
+**Oct 31, 2026 · Data Storytelling with Adobe Express**
+
+Work sample for Renee Castillo, Director of Card Operations at Bear Down Bank: prioritize 440 non-contactless cards expiring more than six months after September 30, 2026, for early replacement at an estimated cost of $3,520.
+
+[Work sample (PDF)](https://github.com/Oluchi-Ojodare2/data-visualization-portfolio/blob/main/adobe/ojodare_oluchi_data_storytelling.pdf) · [Adobe Express](https://new.express.adobe.com/publishedV2/urn:aaid:sc:US:afdb3676-6289-5658-a082-974e934cc357?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
+
+Design choice: I used a horizontal bar chart to compare non-contactless cards by expiration window, highlighting the 440 cards proposed for early replacement against the 1,253 cards approaching natural replacement. I kept the comparison to two bars and a prominent cost callout rather than adding a separate chart, allowing Renee to see the recommendation and its estimated cost without unnecessary visual clutter.
+
+Training completed: 10/31/2026
+
+AI disclosure: OpenAI. (2026). *ChatGPT (GPT-6)* [Large language model]. https://chatgpt.com/. Used October 31, 2026. Prompts included: “Review this infographic and confirm if it meets the assignment instructions”.
