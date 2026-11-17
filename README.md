@@ -33,3 +33,16 @@ Design choice: I used a horizontal bar chart to compare non-contactless cards by
 Training completed: 10/31/2026
 
 AI disclosure: OpenAI. (2026). *ChatGPT (GPT-6)* [Large language model]. https://chatgpt.com/. Used October 31, 2026. Prompts included: “Review this infographic and confirm if it meets the assignment instructions”.
+
+
+**November 16, 2026 · Product Pitch with Generative AI in Adobe Express**
+
+Pitch to Renee Castillo, Director of Card Operations at Bear Down Bank: approve one early-replacement batch of up to 440 non-contactless cards, with an estimated replacement cost of $3,520, subject to confirming the operational rationale and available budget.
+
+[Pitch deck (PDF)](https://github.com/Oluchi-Ojodare2/data-visualization-portfolio/blob/main/adobe/Ojodare_Product_Pitch.pdf) · [Adobe Express](https://new.express.adobe.com/id/urn:aaid:sc:US:6518297f-1b57-4720-8d58-e3983ce2e4b4?accept=true&invite=true&promoid=Z2G1FQKR&mv=other)
+
+Toughest objection: "Why spend $3,520 now if these cards will eventually be replaced anyway?" Slide 5 addresses this by explaining that the six-month selection rule avoids cards already approaching natural replacement, while acknowledging that the available data does not establish a customer or financial benefit from early replacement. It recommends confirming a clear operational reason before approving the batch.
+
+AI use: ChatGPT (GPT-6), November 2026, used to refine the pitch structure and slide language and identify and frame the executive's strongest objection. All figures and analytical findings are based on the underlying portfolio analysis; no AI-generated data was used.
+
+Training completed: November 6, 2026.
