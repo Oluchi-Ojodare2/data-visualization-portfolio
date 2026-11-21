@@ -45,4 +45,16 @@ Toughest objection: "Why spend $3,520 now if these cards will eventually be repl
 
 AI use: ChatGPT (GPT-6), November 2026, used to refine the pitch structure and slide language and identify and frame the executive's strongest objection. All figures and analytical findings are based on the underlying portfolio analysis; no AI-generated data was used.
 
-Training completed: November 6, 2026.
+Training Completed: November 16, 2026.
+
+
+**November 21, 2026 · Brand Standards Application in Tableau**
+
+Applied IMDb brand standards to a movie audience engagement dashboard, then developed a recommendation for Dana Ruiz, VP of Advertising Sales: which content-rating segments should be prioritized for next year's advertising packages?
+
+[Tableau workbook](https://public.tableau.com/views/BrandStandardsApplication-IMDb/DataMoviesIMDBDashboard)
+
+One thing I'd change: I would evaluate the distribution and coverage of the data before choosing my business question. This would help me identify the most meaningful comparisons earlier and avoid rebuilding visualizations when a category has too few observations.
+
+AI use: ChatGPT supported Tableau troubleshooting, refinement of dashboard text and design justification.
+
